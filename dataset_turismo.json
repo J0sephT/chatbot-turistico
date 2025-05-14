@@ -1,0 +1,1253 @@
+[
+  {
+    "ciudad": "Quito",
+    "descripcion": "Capital de Ecuador, posee el centro histórico mejor conservado de América y una rica mezcla cultural colonial e indígena:contentReference[oaicite:51]{index=51}. Su altitud andina y panoramas volcánicos, junto a su oferta moderna, la han hecho destino líder en Sudamérica:contentReference[oaicite:52]{index=52}",
+    "atracciones": [
+      {
+        "nombre": "Iglesia de La Compañía de Jesús",
+        "categoria": "Iglesia",
+        "descripcion": "Iglesia barroca del siglo XVII, famosa por su interior cubierto de pan de oro y considerada una joya del arte colonial quiteño:contentReference[oaicite:53]{index=53}",
+        "calificacion": "5.0/5",
+        "opiniones": "~5.000 opiniones",
+        "coordenadas": "+0.22 S, 78.51 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294308-d315505-Reviews-Iglesia_de_La_Compania_de_Jesus-Quito_Pichincha_Province.html"
+      },
+      {
+        "nombre": "Iglesia y Convento de San Francisco",
+        "categoria": "Iglesia/Museo",
+        "descripcion": "Complejo religioso más grande de América, fundado en 1537, cuna de la Escuela Quiteña de arte; destaca su imponente atrio y museo con arte colonial:contentReference[oaicite:54]{index=54}",
+        "calificacion": "4.5/5",
+        "opiniones": "~1.200 opiniones",
+        "coordenadas": "0.22 S, 78.52 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294308-d316187-Reviews-San_Francisco_Church_Quito-Quito_Pichincha_Province.html"
+      },
+      {
+        "nombre": "Basílica del Voto Nacional",
+        "categoria": "Iglesia",
+        "descripcion": "Catedral neogótica monumental del siglo XIX, famosa por sus gárgolas con fauna ecuatoriana. Sus altas torres ofrecen vistas panorámicas de la ciudad:contentReference[oaicite:55]{index=55}:contentReference[oaicite:56]{index=56}",
+        "calificacion": "4.5/5",
+        "opiniones": "~1.400 opiniones",
+        "coordenadas": "0.21 S, 78.51 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294308-d316186-Reviews-Basilica_del_Voto_Nacional-Quito_Pichincha_Province.html"
+      },
+      {
+        "nombre": "El Panecillo (Virgen de Quito)",
+        "categoria": "Mirador/Monumento",
+        "descripcion": "Colina icónica a 3.000 msnm con una estatua alada de la Virgen de Quito (1976). Es uno de los miradores más visitados, ofreciendo vista de 360° de la ciudad:contentReference[oaicite:57]{index=57}",
+        "calificacion": "4.5/5",
+        "opiniones": "~1.300 opiniones",
+        "coordenadas": "0.22 S, 78.52 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294308-d314596-Reviews-El_Panecillo-Quito_Pichincha_Province.html"
+      },
+      {
+        "nombre": "TelefériQo (Teleférico de Quito)",
+        "categoria": "Atracción/Paisaje",
+        "descripcion": "Teleférico que asciende al Cruz Loma (~4.000 msnm) en las faldas del Pichincha. Ofrece recorridos de 10 min con vistas espectaculares de Quito y volcanes circundantes:contentReference[oaicite:58]{index=58}:contentReference[oaicite:59]{index=59}",
+        "calificacion": "4.5/5",
+        "opiniones": "~2.000 opiniones",
+        "coordenadas": "0.19 S, 78.55 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294308-d946226-Reviews-Teleferico_Quito-Quito_Pichincha_Province.html"
+      },
+      {
+        "nombre": "Ciudad Mitad del Mundo",
+        "categoria": "Monumento/Museo",
+        "descripcion": "Complejo turístico en la latitud 0° donde se alza un monumento que marca la línea ecuatorial. Incluye museo etnográfico y exhibiciones sobre la misión geodésica francesa:contentReference[oaicite:60]{index=60}",
+        "calificacion": "4.5/5",
+        "opiniones": "~4.000 opiniones",
+        "coordenadas": "0.00 N, 78.45 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294308-d315498-Reviews-Mitad_del_Mundo-Quito_Pichincha_Province.html"
+      },
+      {
+        "nombre": "Museo Templo del Sol (Ortega Maila)",
+        "categoria": "Museo de arte",
+        "descripcion": "Museo de arte y cultura andina construido por el artista Ortega Maila, con arquitectura ancestral. Incluye exhibición de pintura, aromaterapia y ritual de energía andina:contentReference[oaicite:61]{index=61}",
+        "calificacion": "4.9/5",
+        "opiniones": "7.984 opiniones:contentReference[oaicite:62]{index=62}",
+        "coordenadas": "0.00 S, 78.46 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294308-d6965734-Reviews-Museo_Templo_del_Sol_Pintor_Ortega_Maila-Quito_Pichincha_Province.html"
+      },
+      {
+        "nombre": "Capilla del Hombre (Museo Guayasamín)",
+        "categoria": "Museo/Arte",
+        "descripcion": "Museo creado por el pintor Oswaldo Guayasamín dedicado al pueblo latinoamericano. Exhibe murales y obras de gran formato en un edificio moderno con vista a la ciudad:contentReference[oaicite:63]{index=63}",
+        "calificacion": "4.7/5",
+        "opiniones": "~1.100 opiniones",
+        "coordenadas": "0.17 S, 78.44 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294308-d316381-Reviews-La_Capilla_Del_Hombre-Quito_Pichincha_Province.html"
+      },
+      {
+        "nombre": "Plaza de la Independencia (Plaza Grande)",
+        "categoria": "Plaza histórica",
+        "descripcion": "Plaza central rodeada de edificios emblemáticos: Palacio de Carondelet (sede presidencial), Catedral Metropolitana, Palacio Arzobispal. Escenario de eventos históricos desde la colonia:contentReference[oaicite:64]{index=64}",
+        "calificacion": "4.5/5",
+        "opiniones": "~500 opiniones",
+        "coordenadas": "0.22 S, 78.51 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294308-d314599-Reviews-Plaza_de_la_Independencia_Plaza_Grande-Quito_Pichincha_Province.html"
+      },
+      {
+        "nombre": "Calle La Ronda",
+        "categoria": "Calle tradicional",
+        "descripcion": "Calle colonial estrecha y adoquinada, llena de casas históricas, restaurantes, arte y música en vivo. Es el epicentro bohemio de Quito, ideal para disfrutar gastronomía y cultura local:contentReference[oaicite:65]{index=65}",
+        "calificacion": "4.5/5",
+        "opiniones": "~400 opiniones",
+        "coordenadas": "0.22 S, 78.51 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294308-d1587408-Reviews-La_Ronda-Quito_Pichincha_Province.html"
+      }
+    ]
+  },
+  {
+    "ciudad": "Guayaquil",
+    "descripcion": "Principal puerto y segunda ciudad de Ecuador, llamada la “Perla del Pacífico”. Ofrece una mezcla de modernidad, historia y naturaleza que la convierte en destino imperdible:contentReference[oaicite:66]{index=66}",
+    "atracciones": [
+      {
+        "nombre": "Malecón 2000",
+        "categoria": "Paseo ribereño",
+        "descripcion": "Extenso malecón junto al río Guayas con parques, monumentos (La Rotonda) y áreas recreativas. Es el corazón turístico de Guayaquil, con vistas al río y museos cercanos:contentReference[oaicite:67]{index=67}",
+        "calificacion": "4.5/5",
+        "opiniones": "~5.000 opiniones",
+        "coordenadas": "2.19 S, 79.88 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303845-d316244-Reviews-Malecon_2000-Guayaquil_Guayas_Province.html"
+      },
+      {
+        "nombre": "Barrio Las Peñas & Cerro Santa Ana",
+        "categoria": "Barrio histórico",
+        "descripcion": "Antiguo barrio colonial de casas coloridas en la ladera del Cerro Santa Ana. Cuenta con 444 escalones con bares y galerías que llevan al faro mirador en la cima, con panorámica de la ciudad:contentReference[oaicite:68]{index=68}",
+        "calificacion": "4.5/5",
+        "opiniones": "~1.300 opiniones",
+        "coordenadas": "2.19 S, 79.88 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303845-d317538-Reviews-Las_Penas-Guayaquil_Guayas_Province.html"
+      },
+      {
+        "nombre": "Parque Seminario (Parque de las Iguanas)",
+        "categoria": "Parque urbano",
+        "descripcion": "Pequeño parque frente a la catedral, habitado por decenas de iguanas verdes que deambulan libremente. Atractivo peculiar donde visitantes pueden observarlas de cerca en un entorno urbano:contentReference[oaicite:69]{index=69}",
+        "calificacion": "4.0/5",
+        "opiniones": "~1.000 opiniones",
+        "coordenadas": "2.19 S, 79.88 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303845-d314711-Reviews-Parque_de_Las_Iguanas-Guayaquil_Guayas_Province.html"
+      },
+      {
+        "nombre": "Parque Histórico Guayaquil",
+        "categoria": "Parque/Museo",
+        "descripcion": "Reserva a las afueras de la ciudad que recrea la Guayaquil de antaño. Combina un zoo con fauna local, exhibiciones culturales y casas históricas de madera trasladadas desde el centro:contentReference[oaicite:70]{index=70}",
+        "calificacion": "4.5/5",
+        "opiniones": "~600 opiniones",
+        "coordenadas": "2.17 S, 79.87 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303845-d317533-Reviews-Parque_Historico_Guayaquil-Guayaquil_Guayas_Province.html"
+      },
+      {
+        "nombre": "Isla Santay",
+        "categoria": "Reserva natural",
+        "descripcion": "Isla ecológica en el río Guayas, accesible por puente peatonal. Cuenta con senderos, centro eco-turístico y poblado local. Permite observar manglares, aves y escaparse de la ciudad en plena naturaleza",
+        "calificacion": "4.5/5",
+        "opiniones": "~300 opiniones",
+        "coordenadas": "2.19 S, 79.86 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303845-d6701345-Reviews-Santay_Island-Guayaquil_Guayas_Province.html"
+      },
+      {
+        "nombre": "Catedral Metropolitana de Guayaquil",
+        "categoria": "Iglesia",
+        "descripcion": "Catedral neo-gótica ubicada junto al Parque Seminario. Destaca por sus altas torres gemelas y vitrales. Es el principal templo católico de la ciudad, reconstruido en cemento en 1948 tras incendios",
+        "calificacion": "4.5/5",
+        "opiniones": "~200 opiniones",
+        "coordenadas": "2.19 S, 79.88 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303845-d317539-Reviews-Catedral_Metropolitana_de_Guayaquil-Guayaquil_Guayas_Province.html"
+      },
+      {
+        "nombre": "La Perla",
+        "categoria": "Atracción (Noria)",
+        "descripcion": "Rueda moscovita gigante (60 m) situada en el Malecón Simón Bolívar a orillas del río. Inaugurada en 2016, ofrece rides de 12 min con vistas panorámicas de la ciudad y el río",
+        "calificacion": "4.0/5",
+        "opiniones": "~300 opiniones",
+        "coordenadas": "2.18 S, 79.88 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303845-d12204146-Reviews-La_Perla-Guayaquil_Guayas_Province.html"
+      },
+      {
+        "nombre": "Museo Antropológico y de Arte Contemporáneo (MAAC)",
+        "categoria": "Museo",
+        "descripcion": "Museo a lo largo del Malecón 2000 que exhibe arte precolombino, colonial y contemporáneo ecuatoriano. Incluye piezas arqueológicas de las culturas Valdivia, Manteña, etc., y salas de arte moderno",
+        "calificacion": "4.0/5",
+        "opiniones": "~150 opiniones",
+        "coordenadas": "2.19 S, 79.88 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303845-d317537-Reviews-Museo_Antropologico_y_de_Arte_Contemporaneo-Guayaquil_Guayas_Province.html"
+      }
+    ]
+  },
+  {
+    "ciudad": "Cuenca",
+    "descripcion": "Ciudad colonial en la sierra sur, conocida por su centro histórico Patrimonio de la Humanidad (UNESCO 1999) y su ambiente tranquilo. Sus calles adoquinadas, iglesias de cúpulas azules y casas con balcones de madera reflejan su rica herencia española:contentReference[oaicite:71]{index=71}:contentReference[oaicite:72]{index=72}",
+    "atracciones": [
+      {
+        "nombre": "Catedral de la Inmaculada Concepción",
+        "categoria": "Catedral",
+        "descripcion": "También llamada Catedral Nueva (terminada en 1975), es la icónica catedral de domos azules de Cuenca. Combina estilos neogótico y renacentista; su fachada de piedra y majestuosas cúpulas de azulejos azules la hacen símbolo de la ciudad:contentReference[oaicite:73]{index=73}:contentReference[oaicite:74]{index=74}",
+        "calificacion": "4.5/5",
+        "opiniones": "~1.500 opiniones",
+        "coordenadas": "2.90 S, 79.00 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294309-d315503-Reviews-Catedral_de_la_Inmaculada_Concepcion-Cuenca_Azuay_Province.html"
+      },
+      {
+        "nombre": "Parque Nacional El Cajas",
+        "categoria": "Reserva natural",
+        "descripcion": "Parque andino a 30 km de Cuenca, con más de 200 lagunas glaciares entre páramos y bosques de polylepis. Ideal para senderismo, pesca de truchas y avistamiento de llamas y venados en paisajes sobre 3.000 msnm",
+        "calificacion": "4.8/5",
+        "opiniones": "~800 opiniones",
+        "coordenadas": "2.83 S, 79.22 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294309-d555420-Reviews-El_Cajas_National_Park-Cuenca_Azuay_Province.html"
+      },
+      {
+        "nombre": "Complejo Pumapungo (Museo y Parque)",
+        "categoria": "Museo/Arqueología",
+        "descripcion": "Sitio que alberga el Museo Pumapungo y las ruinas arqueológicas de Tomebamba (poblado Inca). El museo expone arte, etnografía y una colección de momias Shuar; afuera se recorren restos de terrazas incas y jardines etnobotánicos",
+        "calificacion": "4.5/5",
+        "opiniones": "~300 opiniones",
+        "coordenadas": "2.90 S, 78.99 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294309-d1011484-Reviews-Pumapungo_Museum_and_Arqueological_Park_Casa_del_Alfarero-Cuenca_Azuay_Province.html"
+      },
+      {
+        "nombre": "Mirador de Turi",
+        "categoria": "Mirador",
+        "descripcion": "Colina al sur de Cuenca con una pequeña iglesia, conocida por ofrecer la vista panorámica más famosa de la ciudad. Se puede acceder en vehículo o escalando cientos de gradas; alrededor hay cafés y tiendas de artesanías",
+        "calificacion": "4.5/5",
+        "opiniones": "~600 opiniones",
+        "coordenadas": "2.92 S, 78.98 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294309-d670862-Reviews-Mirador_de_Turi-Cuenca_Azuay_Province.html"
+      },
+      {
+        "nombre": "Parque Calderón",
+        "categoria": "Plaza central",
+        "descripcion": "Plaza principal de Cuenca rodeada de edificios históricos como la Catedral Nueva y la Catedral Vieja. Con jardines, fuentes y el kiosko central, es un punto de encuentro local y escenario de eventos cívicos",
+        "calificacion": "4.5/5",
+        "opiniones": "~300 opiniones",
+        "coordenadas": "2.90 S, 78.99 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294309-d553318-Reviews-Elizabeth_Ordonez-Cuenca_Azuay_Province.html"
+      },
+      {
+        "nombre": "Catedral del Sagrario (Catedral Vieja)",
+        "categoria": "Monumento/Museo",
+        "descripcion": "Antigua catedral de Cuenca (1557), de estilo renacentista, hoy convertida en museo de arte religioso. Su fachada de piedra y el interior restaurado exhiben pinturas, retablos y reliquias históricas de la diócesis",
+        "calificacion": "4.5/5",
+        "opiniones": "~200 opiniones",
+        "coordenadas": "2.90 S, 78.99 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294309-d774437-Reviews-Catedral_de_la_Inmaculada-Concepcion-OLD-Cuenca_Azuay_Province.html"
+      },
+      {
+        "nombre": "Iglesia del Carmen de la Asunción",
+        "categoria": "Iglesia",
+        "descripcion": "Iglesia y convento del siglo XVII ubicados junto a la plazoleta de las Flores. Reconocidos por su fachada barroca de piedra y por albergar un mercado de flores tradicional en su atrio, aportando colorido y aroma al centro histórico",
+        "calificacion": "4.5/5",
+        "opiniones": "~100 opiniones",
+        "coordenadas": "2.90 S, 78.99 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294309-d7183193-Reviews-Plaza_de_las_Flores-Cuenca_Azuay_Province.html"
+      },
+      {
+        "nombre": "Ingapirca (ruinas incas)",
+        "categoria": "Sitio arqueológico",
+        "descripcion": "Complejo arqueológico Inca más importante de Ecuador, con ruinas de un templo del Sol y construcciones de piedra perfectamente ensambladas. Se ubica a 80 km de Cuenca; muestra la presencia Inca y Cañari en la región:contentReference[oaicite:75]{index=75}",
+        "calificacion": "4.5/5",
+        "opiniones": "~400 opiniones",
+        "coordenadas": "2.54 S, 78.87 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303847-d314709-Reviews-Ingapirca_Ruins-Canar_Canar_Province.html"
+      },
+      {
+        "nombre": "Museo del Sombrero de Paja Toquilla",
+        "categoria": "Museo/Industria",
+        "descripcion": "Taller-museo donde se exhibe el proceso tradicional de tejido del sombrero de paja toquilla (mal llamado “Panama hat”). Los visitantes pueden ver artesanos trabajando, apreciar sombreros históricos y comprar sombreros finos",
+        "calificacion": "4.5/5",
+        "opiniones": "~300 opiniones",
+        "coordenadas": "2.90 S, 78.99 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g294309-d2634093-Reviews-Homero_Ortega_Pajarito_Sombrero_Cuenca_Azuay_Province.html"
+      }
+    ]
+  },
+  {
+    "ciudad": "Baños de Agua Santa",
+    "descripcion": "Pequeña ciudad andina en las faldas del volcán Tungurahua, célebre por sus aguas termales, cascadas y deportes de aventura. Es uno de los destinos de naturaleza y aventura más importantes de Ecuador:contentReference[oaicite:76]{index=76}",
+    "atracciones": [
+      {
+        "nombre": "Cascada Pailón del Diablo",
+        "categoria": "Cascada",
+        "descripcion": "Impresionante cascada de ~30 m en el río Verde, accesible por senderos y puentes bajo la selva. El agua cae con gran fuerza en una olla, formando neblina; es el salto más famoso de la Ruta de las Cascadas en Baños",
+        "calificacion": "4.8/5",
+        "opiniones": "~2.300 opiniones",
+        "coordenadas": "1.39 S, 78.42 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g316050-d316758-Reviews-Pailon_del_Diablo_Devil_s_Cauldron-Banos_Tungurahua_Province.html"
+      },
+      {
+        "nombre": "Casa del Árbol (Columpio “Fin del Mundo”)",
+        "categoria": "Mirador/Aventura",
+        "descripcion": "Pequeña casa con columpio sobre un abismo, a 2.600 msnm, que ofrece vistas espectaculares del valle de Baños y del volcán Tungurahua. Famoso por la adrenalina de columpiarse “sobre el vacío” y tomar fotos únicas",
+        "calificacion": "4.5/5",
+        "opiniones": "~1.300 opiniones",
+        "coordenadas": "1.39 S, 78.44 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g316050-d7316314-Reviews-La_Casa_del_Arbol-Banos_Tungurahua_Province.html"
+      },
+      {
+        "nombre": "Termas de la Virgen",
+        "categoria": "Termas/Balneario",
+        "descripcion": "Piscinas termales públicas alimentadas por aguas volcánicas ricas en minerales, ubicadas al pie de una cascada en pleno pueblo. Locales y turistas acuden para relajarse en sus aguas cálidas con propiedades terapéuticas",
+        "calificacion": "4.0/5",
+        "opiniones": "~400 opiniones",
+        "coordenadas": "1.40 S, 78.42 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g316050-d315315-Reviews-Termas_de_la_Virgen-Banos_Tungurahua_Province.html"
+      },
+      {
+        "nombre": "Cascada Manto de la Novia",
+        "categoria": "Cascada",
+        "descripcion": "Caída de agua de ~40 m que forma un velo blanco sobre el río Pastaza, visible desde un puente colgante. Se puede cruzar en tarabita (cablecarril) sobre el cañón para admirar de cerca esta cascada escénica rodeada de selva",
+        "calificacion": "4.5/5",
+        "opiniones": "~150 opiniones",
+        "coordenadas": "1.42 S, 78.36 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g316050-d8412340-Reviews-Manto_de_la_Novia_Waterfall-Banos_Tungurahua_Province.html"
+      },
+      {
+        "nombre": "Basílica de Nuestra Señora de Agua Santa",
+        "categoria": "Iglesia",
+        "descripcion": "Templo neogótico construido en honor a la Virgen de Agua Santa, patrona de Baños. Su interior exhibe murales que narran milagros atribuidos a la Virgen, y es centro de peregrinación; de noche su fachada se ilumina bellamente",
+        "calificacion": "4.5/5",
+        "opiniones": "~200 opiniones",
+        "coordenadas": "1.40 S, 78.42 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g316050-d315314-Reviews-Church_of_the_Virgin_of_the_Holy_Water_Basilica_de_Nuestra_Senora_del_Agua_Santa-Ban.html"
+      },
+      {
+        "nombre": "Mirador “La Virgen”",
+        "categoria": "Mirador",
+        "descripcion": "Estatua de la Virgen María ubicada en lo alto de un cerro al este de Baños, accesible tras subir ~600 escalones. Desde la cima se obtiene una vista panorámica de la ciudad y del valle; el sendero está acompañado de estaciones del Vía Crucis",
+        "calificacion": "4.5/5",
+        "opiniones": "~80 opiniones",
+        "coordenadas": "1.40 S, 78.41 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g316050-d14938854-Reviews-Mirador_De_La_Virgen-Banos_Tungurahua_Province.html"
+      }
+    ]
+  },
+  {
+    "ciudad": "Otavalo",
+    "descripcion": "Ciudad andina imbabureña conocida como “Capital Intercultural del Ecuador” por su riqueza indígena. Es uno de los puntos turísticos más visitados del país, famoso por su mercado artesanal indígena considerado el más grande de Sudamérica:contentReference[oaicite:77]{index=77}:contentReference[oaicite:78]{index=78}",
+    "atracciones": [
+      {
+        "nombre": "Mercado de Otavalo (Plaza de los Ponchos)",
+        "categoria": "Mercado artesanal",
+        "descripcion": "Mercado indígena centenario al aire libre, especialmente concurrido los sábados. Ofrece una enorme variedad de textiles, artesanías, tapices, ponchos, joyería y recuerdos producidos por la comunidad otavaleña:contentReference[oaicite:79]{index=79}",
+        "calificacion": "4.2/5",
+        "opiniones": "1.184 opiniones【10†0】",
+        "coordenadas": "0.23 N, 78.26 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303848-d314638-Reviews-Otavalo_Market-Otavalo_Imbabura_Province.html"
+      },
+      {
+        "nombre": "Cascada de Peguche",
+        "categoria": "Cascada",
+        "descripcion": "Cascada de ~20 m de altura dentro del Bosque Protector Peguche, a 3 km de Otavalo. Es un sitio sagrado para los indígenas (escenario de baños rituales en Inti Raymi) y ofrece senderos naturales y áreas de picnic:contentReference[oaicite:80]{index=80}",
+        "calificacion": "4.2/5",
+        "opiniones": "751 opiniones:contentReference[oaicite:81]{index=81}",
+        "coordenadas": "0.24 N, 78.24 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303848-d2650785-Reviews-Cascada_de_Peguche-Otavalo_Imbabura_Province.html"
+      },
+      {
+        "nombre": "Parque Cóndor",
+        "categoria": "Centro de rescate",
+        "descripcion": "Centro de aves de presa andinas situado en una colina con vista a Otavalo. Alberga cóndores, águilas y halcones rescatados, con exhibiciones de vuelo. Promueve la educación y conservación de estas especies emblemáticas de los Andes",
+        "calificacion": "4.3/5",
+        "opiniones": "533 opiniones:contentReference[oaicite:82]{index=82}",
+        "coordenadas": "0.23 N, 78.25 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303848-d1630473-Reviews-Parque_Condor-Otavalo_Imbabura_Province.html"
+      },
+      {
+        "nombre": "Lagunas de Mojanda",
+        "categoria": "Lagunas",
+        "descripcion": "Conjunto de lagunas de origen volcánico a 17 km de Otavalo (3.700 msnm). La principal, Karicocha, está rodeada de montañas y pajonales andinos. Sitio ideal para caminatas, camping y disfrutar paisajes andinos vírgenes",
+        "calificacion": "4.5/5",
+        "opiniones": "~50 opiniones",
+        "coordenadas": "0.11 N, 78.29 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303848-d8540967-Reviews-Mojanda_Lakes-Otavalo_Imbabura_Province.html"
+      },
+      {
+        "nombre": "Volcán Imbabura (sendero)",
+        "categoria": "Volcán",
+        "descripcion": "Volcán inactivo de 4.630 m que domina Otavalo. Los aventureros ascienden por senderos empinados (6–8 h ida/vuelta) pasando por páramo y roca para alcanzar su cumbre, desde donde hay vistas espectaculares de los Andes y lagos circundantes",
+        "calificacion": "N/A",
+        "opiniones": "N/A",
+        "coordenadas": "0.32 N, 78.18 W",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "ciudad": "Mindo",
+    "descripcion": "Pequeña localidad en el bosque nublado de los Andes occidentales, famosa por su biodiversidad. Rodeada de cascadas y bosques, posee una de las avifaunas más ricas del país, siendo destino imperdible para amantes de la naturaleza y la aventura:contentReference[oaicite:83]{index=83}",
+    "atracciones": [
+      {
+        "nombre": "Mariposario de Mindo",
+        "categoria": "Mariposario",
+        "descripcion": "Reserva de mariposas donde se pueden observar decenas de especies tropicales en vivo. Incluye un jardín con plantas atrayentes y guías que muestran el ciclo de vida de mariposas exóticas; ideal para fotografía y educación",
+        "calificacion": "4.5/5",
+        "opiniones": "~700 opiniones",
+        "coordenadas": "0.07 N, 78.77 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g609138-d316960-Reviews-Mariposas_de_Mindo-Mindo_Pichincha_Province.html"
+      },
+      {
+        "nombre": "Santuario de Cascadas (Tarabita)",
+        "categoria": "Naturaleza/Aventura",
+        "descripcion": "Conjunto de senderos que conducen a varias cascadas en la Reserva Mindo-Nambillo. Para acceder, se cruza en tarabita (cable aéreo) sobre el valle. Las caminatas permiten bañarse en pozas y disfrutar la selva nublada",
+        "calificacion": "4.5/5",
+        "opiniones": "~450 opiniones",
+        "coordenadas": "0.06 S, 78.75 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g609138-d4544007-Reviews-Mindo_Nambillo_Cloud_Forest_Reserve-Mindo_Pichincha_Province.html"
+      },
+      {
+        "nombre": "Canopy y Ziplines",
+        "categoria": "Deporte/Aventura",
+        "descripcion": "Circuito de tirolesas entre las copas de los árboles en Mindo. Distintas empresas ofrecen varias líneas que cruzan a alta velocidad el bosque nublado, brindando emoción y vistas únicas de la vegetación y montañas",
+        "calificacion": "5.0/5",
+        "opiniones": "~300 opiniones",
+        "coordenadas": "0.05 S, 78.78 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g609138-d1550412-Reviews-Mindo_Canopy_Adventure-Mindo_Pichincha_Province.html"
+      },
+      {
+        "nombre": "Reserva Paz de las Aves",
+        "categoria": "Reserva de aves",
+        "descripcion": "Reserva privada famosa por avistamiento de aves raras como gallo de la peña, varias especies de antpittas y cientos de colibríes. Guiada por agricultores locales que atraen las aves con alimentación, permitiendo a turistas verlas de cerca",
+        "calificacion": "5.0/5",
+        "opiniones": "~140 opiniones",
+        "coordenadas": "0.00 S, 78.79 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g609138-d1162709-Reviews-Paz_de_las_Aves_Bird_Refuge-Mindo_Pichincha_Province.html"
+      },
+      {
+        "nombre": "Tour del Chocolate (Yumbos)",
+        "categoria": "Tour gastronómico",
+        "descripcion": "Pequeña fábrica de chocolate artesanal donde se muestra el proceso desde el cacao hasta la barra de chocolate. Los visitantes recorren el jardín de cacao, observan la fermentación, tueste y molienda, y degustan chocolates y cacao puro",
+        "calificacion": "4.5/5",
+        "opiniones": "~250 opiniones",
+        "coordenadas": "0.07 S, 78.78 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g609138-d2486690-Reviews-El_Quetzal_de_Mindo-Mindo_Pichincha_Province.html"
+      }
+    ]
+  },
+  {
+    "ciudad": "Montañita",
+    "descripcion": "Pequeño pueblo costero en Santa Elena, famoso por su ambiente de fiesta permanente y excelente oleaje para surf. Es uno de los spots de surf y vida nocturna más populares del país:contentReference[oaicite:84]{index=84}",
+    "atracciones": [
+      {
+        "nombre": "Playa Montañita",
+        "categoria": "Playa",
+        "descripcion": "Extensa playa de arena dorada con oleaje constante, ideal para surfistas de todos los niveles. De día es un punto de surf y descanso bajo el sol; al atardecer se llena de visitantes disfrutando del paisaje marino tropical",
+        "calificacion": "4.5/5",
+        "opiniones": "~150 opiniones",
+        "coordenadas": "1.83 S, 80.76 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g609140-d2312281-Reviews-Montanita_Beach-Montanita_Santa_Elena_Province.html"
+      },
+      {
+        "nombre": "La Punta de Montañita",
+        "categoria": "Mirador/Surf",
+        "descripcion": "Extremo norte de la playa, zona rocosa que forma olas de calidad mundial (derecha larga). Es el lugar preferido por surfistas avanzados; además, desde las rocas se aprecian los mejores atardeceres y la vista panorámica de Montañita",
+        "calificacion": "N/A",
+        "opiniones": "N/A",
+        "coordenadas": "1.82 S, 80.77 W",
+        "enlace": ""
+      },
+      {
+        "nombre": "Santuario Blanca Estrella de Mar",
+        "categoria": "Mirador/Iglesia",
+        "descripcion": "Pequeña capilla blanca construida en un acantilado entre Montañita y Olón. Dedicada a la Virgen, es accesible por sendero y ofrece vistas espectaculares del mar y la costa. Punto de contemplación y meditación frente al océano Pacífico",
+        "calificacion": "4.5/5",
+        "opiniones": "~40 opiniones",
+        "coordenadas": "1.81 S, 80.75 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g609140-d12880367-Reviews-Santuario_Blanca_Estrella_de_la_Mar-Montanita_Santa_Elena_Province.html"
+      },
+      {
+        "nombre": "Calle de los Cócteles",
+        "categoria": "Vida nocturna",
+        "descripcion": "Calle principal del pueblo repleta de bares rústicos y puestos que venden cocteles tropicales. Epicentro de la vida nocturna montañitense: todas las noches (especialmente fines de semana) se llena de música, turistas y fiesta al aire libre",
+        "calificacion": "N/A",
+        "opiniones": "N/A",
+        "coordenadas": "1.83 S, 80.75 W",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "ciudad": "Puerto Ayora (Galápagos)",
+    "descripcion": "Principal ciudad de las islas Galápagos, en Isla Santa Cruz. Es el centro turístico más grande del archipiélago, combinando belleza natural con comodidades modernas para visitantes:contentReference[oaicite:85]{index=85}",
+    "atracciones": [
+      {
+        "nombre": "Estación Científica Charles Darwin",
+        "categoria": "Centro científico",
+        "descripcion": "Centro de investigación y cría de tortugas gigantes. Cuenta con exhibiciones sobre la flora, fauna y conservación de Galápagos. Los visitantes pueden observar tortugas de distintas especies y edades, incluidas las emblemáticas tortugas gigantes en corrales:contentReference[oaicite:86]{index=86}",
+        "calificacion": "4.5/5",
+        "opiniones": "~2.500 opiniones",
+        "coordenadas": "0.74 S, 90.31 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297533-d317382-Reviews-Charles_Darwin_Research_Station-Puerto_Ayora_Santa_Cruz_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Playa Tortuga Bay",
+        "categoria": "Playa",
+        "descripcion": "Playa prístina de arena blanca considerada de las más hermosas de Galápagos. Se accede tras caminar ~2,5 km desde el pueblo. Sus aguas turquesa y manglares albergan iguanas marinas, tortugas y tintoreras; sector cercano apto para nadar y hacer snorkel",
+        "calificacion": "5.0/5",
+        "opiniones": "~3.800 opiniones",
+        "coordenadas": "0.75 S, 90.33 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297533-d1173324-Reviews-Galapagos_Beach_at_Tortuga_Bay-Puerto_Ayora_Santa_Cruz_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Las Grietas",
+        "categoria": "Accidente natural",
+        "descripcion": "Grieta volcánica llena de agua salobre donde se puede nadar entre altas paredes de roca. Se llega en bote y sendero corto desde Puerto Ayora. Sus aguas cristalinas de tonos azul verdoso brindan una experiencia única de snorkel en un entorno tranquilo",
+        "calificacion": "4.5/5",
+        "opiniones": "~800 opiniones",
+        "coordenadas": "0.74 S, 90.31 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297533-d2547100-Reviews-Las_Grietas-Puerto_Ayora_Santa_Cruz_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Reserva El Chato",
+        "categoria": "Reserva natural",
+        "descripcion": "Reserva privada en la parte alta de Santa Cruz donde las tortugas gigantes de Galápagos deambulan en libertad. Los visitantes pueden caminar entre ellas en su hábitat natural (pantanos, pastizales) y también explorar túneles de lava formados hace miles de años",
+        "calificacion": "4.5/5",
+        "opiniones": "~600 opiniones",
+        "coordenadas": "0.68 S, 90.38 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297533-d2227673-Reviews-El_Chato_Ranch-Puerto_Ayora_Santa_Cruz_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Los Gemelos",
+        "categoria": "Accidente natural",
+        "descripcion": "Dos enormes depresiones volcánicas gemelas ubicadas a los lados de la carretera en la parte alta de Santa Cruz. Son cráteres colapsados cubiertos de vegetación de Scalesia (endemismo de Galápagos), hogar de pinzones y otras aves",
+        "calificacion": "4.5/5",
+        "opiniones": "~300 opiniones",
+        "coordenadas": "0.62 S, 90.39 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297533-d7380061-Reviews-Los_Gemelos-Puerto_Ayora_Santa_Cruz_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Playa El Garrapatero",
+        "categoria": "Playa",
+        "descripcion": "Playa aislada de arena clara y aguas tranquilas en la costa este de Santa Cruz (a 30 min en auto + caminata). Rodeada de manglares, suele estar poco concurrida; se pueden ver flamingos y patillos en una laguna cercana. Sitio ideal para picnic y natación",
+        "calificacion": "4.5/5",
+        "opiniones": "~200 opiniones",
+        "coordenadas": "0.68 S, 90.21 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297533-d1173319-Reviews-El_Garrapatero-Puerto_Ayora_Santa_Cruz_Galapagos_Islands.html"
+      }
+    ]
+  },
+  {
+    "ciudad": "Puerto Baquerizo Moreno (Galápagos)",
+    "descripcion": "Capital provincial de Galápagos, en Isla San Cristóbal. Es un pueblo pequeño y tranquilo, el asentamiento más antiguo del archipiélago, ideal para convivir con la gente local y explorar sitios naturales únicos de la isla:contentReference[oaicite:87]{index=87}",
+    "atracciones": [
+      {
+        "nombre": "León Dormido (Kicker Rock)",
+        "categoria": "Islote",
+        "descripcion": "Formación rocosa volcánica emblemática frente a San Cristóbal con forma de obelisco partido. Es uno de los mejores sitios de buceo y snorkel en Galápagos: en sus aguas se observan tiburones (como los martillo), tortugas marinas, rayas y gran variedad de peces",
+        "calificacion": "5.0/5",
+        "opiniones": "~900 opiniones",
+        "coordenadas": "0.81 S, 89.53 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297530-d2359400-Reviews-Kicker_Rock-Puerto_Baquerizo_Moreno_San_Cristobal_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "La Lobería",
+        "categoria": "Playa",
+        "descripcion": "Playa de arena y roca a las afueras del pueblo, hogar de una colonia de lobos marinos. Ofrece snorkel entre tortugas marinas y peces tropicales, además de olas aptas para surfistas experimentados. Un sendero cercano permite observar iguanas marinas y fragatas",
+        "calificacion": "4.5/5",
+        "opiniones": "~350 opiniones",
+        "coordenadas": "0.93 S, 89.62 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297530-d2707370-Reviews-La_Loberia-Puerto_Baquerizo_Moreno_San_Cristobal_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Centro de Interpretación",
+        "categoria": "Museo",
+        "descripcion": "Museo educativo administrado por el Parque Nacional Galápagos que brinda información sobre la historia natural, geología, ecosistemas y gestión de las islas. Exhibe fotos, maquetas y explicaciones que contextualizan la visita al archipiélago",
+        "calificacion": "4.5/5",
+        "opiniones": "~500 opiniones",
+        "coordenadas": "0.90 S, 89.61 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297530-d1592699-Reviews-Interpretation_Center-Puerto_Baquerizo_Moreno_San_Cristobal_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Cerro Tijeretas",
+        "categoria": "Mirador/Snorkel",
+        "descripcion": "Colina cercana al Centro de Interpretación, con sendero que lleva a miradores naturales donde se observan fragatas (de ahí el nombre “tijeretas”). En la base, una bahía de aguas claras es ideal para snorkelear junto a leones marinos y peces de arrecife",
+        "calificacion": "4.5/5",
+        "opiniones": "~250 opiniones",
+        "coordenadas": "0.89 S, 89.61 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297530-d2547104-Reviews-Cerro_Tijeretas-Puerto_Baquerizo_Moreno_San_Cristobal_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Playa Mann",
+        "categoria": "Playa",
+        "descripcion": "Pequeña playa de arena dorada a pocos minutos del centro. Muy frecuentada por locales, ideal para nadar y ver atardeceres. Su bahía suele tener lobos marinos descansando en la arena y pelícanos pescando cerca de la orilla",
+        "calificacion": "4.0/5",
+        "opiniones": "~150 opiniones",
+        "coordenadas": "0.90 S, 89.61 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297530-d7363514-Reviews-Playa_Mann-Puerto_Baquerizo_Moreno_San_Cristobal_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Laguna El Junco",
+        "categoria": "Laguna",
+        "descripcion": "Laguna de agua dulce ubicada en el cráter de un volcán extinto en la parte alta de San Cristóbal (~700 msnm). Rodeada de vegetación de miconia, es hábitat de aves como fragatas que acuden a bañarse. Es la única laguna de agua dulce significativa en Galápagos",
+        "calificacion": "4.5/5",
+        "opiniones": "~100 opiniones",
+        "coordenadas": "0.88 S, 89.52 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297530-d2547103-Reviews-Laguna_El_Junco-Puerto_Baquerizo_Moreno_San_Cristobal_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Puerto Chino",
+        "categoria": "Playa",
+        "descripcion": "Playa remota de arena blanca en la costa sureste de San Cristóbal, accesible vía terrestre y caminata corta. Rodeada de lava y arbustos, es un lugar tranquilo para descansar; suelen verse leones marinos y piqueros de patas azules en las rocas cercanas",
+        "calificacion": "4.5/5",
+        "opiniones": "~200 opiniones",
+        "coordenadas": "0.93 S, 89.45 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297530-d9728417-Reviews-Puerto_Chino_Beach-Puerto_Baquerizo_Moreno_San_Cristobal_Galapagos_Islands.html"
+      }
+    ]
+  },
+  {
+    "ciudad": "Puerto Villamil (Galápagos)",
+    "descripcion": "Única localidad de Isla Isabela, con ~2.000 hab. Ofrece un ambiente relajado con playas vírgenes de arena blanca y lagunas con flamencos rosados, siendo un paraíso para amantes de la naturaleza en Galápagos:contentReference[oaicite:88]{index=88}",
+    "atracciones": [
+      {
+        "nombre": "Los Túneles (Cabo Rosa)",
+        "categoria": "Sitio de snorkel",
+        "descripcion": "Red de formaciones volcánicas semicirculares colapsadas en el mar, creando túneles y arcos parcialmente sumergidos. En este tour en lancha se realiza snorkel entre tortugas marinas, tiburones de punta blanca, caballitos de mar y piqueros de patas azules posados en las rocas",
+        "calificacion": "5.0/5",
+        "opiniones": "~300 opiniones",
+        "coordenadas": "1.15 S, 91.40 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g1732554-d2625548-Reviews-Los_Tuneles-Puerto_Villamil_Isabela_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Islote Las Tintoreras",
+        "categoria": "Islote",
+        "descripcion": "Pequeño archipiélago de rocas volcánicas frente a Puerto Villamil, hogar de pingüinos de Galápagos, tiburones de punta blanca (tintoreras) que descansan en canales de lava, iguanas marinas, lobos marinos y aves costeras. Se visita en tour guiado con snorkel",
+        "calificacion": "4.5/5",
+        "opiniones": "~500 opiniones",
+        "coordenadas": "0.95 S, 90.96 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g1732554-d1774366-Reviews-Las_Tintoreras-Puerto_Villamil_Isabela_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Volcán Sierra Negra",
+        "categoria": "Volcán",
+        "descripcion": "Volcán activo con uno de los cráteres más grandes del mundo (~10 km diámetro). Una caminata de ~9 km desde el puesto de control lleva al borde del cráter con vistas impresionantes de la caldera. Opcionalmente se continúa hacia Volcán Chico para observar fumarolas y recientes coladas de lava",
+        "calificacion": "4.5/5",
+        "opiniones": "~250 opiniones",
+        "coordenadas": "0.83 S, 91.17 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g1732554-d2514161-Reviews-Sierra_Negra-_"
+      },
+      {
+        "nombre": "Concha de Perla",
+        "categoria": "Laguna/Salinas",
+        "descripcion": "Ensenada de aguas tranquilas junto al muelle de Puerto Villamil, ideal para snorkel. Se accede por una pasarela entre manglares; allí se puede nadar con leones marinos, tortugas, rayas y coloridos peces tropicales en un entorno sereno y poco profundo",
+        "calificacion": "4.5/5",
+        "opiniones": "~320 opiniones",
+        "coordenadas": "0.96 S, 90.97 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g1732554-d1511228-Reviews-Concha_de_Perla-Puerto_Villamil_Isabela_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Muro de las Lágrimas",
+        "categoria": "Sitio histórico",
+        "descripcion": "Muralla de piedras volcánicas de 100 m de largo por 7 m de alto, construida manualmente por prisioneros en la colonia penal de Isabela (1945–59). Simboliza las penurias sufridas; se llega en bicicleta o caminata (~5 km del pueblo) pasando miradores y playas con iguanas",
+        "calificacion": "4.0/5",
+        "opiniones": "~250 opiniones",
+        "coordenadas": "0.94 S, 91.46 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g1732554-d2547152-Reviews-The_Wall_of_Tears-Puerto_Villamil_Isabela_Galapagos_Islands.html"
+      },
+      {
+        "nombre": "Centro de Crianza Arnaldo Tupiza",
+        "categoria": "Centro de crianza",
+        "descripcion": "Centro de reproducción de tortugas gigantes de Isabela, donde se las cría en cautiverio para repoblar la isla. Se pueden ver tortugas de diferentes edades, desde crías hasta adultos reproductores. Cuenta con senderos y paneles explicativos sobre conservación",
+        "calificacion": "4.5/5",
+        "opiniones": "~200 opiniones",
+        "coordenadas": "0.94 S, 90.96 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g1732554-d2464215-Reviews-The_Giant_Tortoise_Breeding_Center-Puerto_Villamil_Isabela_Galapagos_Islands.html"
+      }
+    ]
+  },
+  {
+    "ciudad": "Salinas",
+    "descripcion": "Ciudad balnearia en la Península de Santa Elena, considerada el balneario más popular de Ecuador:contentReference[oaicite:89]{index=89}. Conocida por sus playas, rascacielos estilo Miami y animada vida turística, es destino favorito especialmente en temporadas de sol",
+    "atracciones": [
+      {
+        "nombre": "Playa de Salinas (Chipipe)",
+        "categoria": "Playa",
+        "descripcion": "Playa principal de Salinas, de aguas tranquilas y apropiadas para nadar. Bordeada por el malecón y altos edificios, ofrece alquiler de sombrillas, deportes acuáticos y es epicentro de la actividad turística, similar a un “Miami” ecuatoriano:contentReference[oaicite:90]{index=90}",
+        "calificacion": "4.5/5",
+        "opiniones": "~350 opiniones",
+        "coordenadas": "2.18 S, 80.98 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297539-d3316862-Reviews-Chipipe_Beach-Salinas_Santa_Elena_Province.html"
+      },
+      {
+        "nombre": "La Chocolatera",
+        "categoria": "Mirador",
+        "descripcion": "Punta rocosa y acantilado dentro de la Base Naval, punto más occidental de Ecuador continental. Recibe el choque de corrientes que levantan espuma (de ahí el nombre); miradores ofrecen vistas panorámicas del Pacífico y avistamiento de ballenas en temporada",
+        "calificacion": "4.5/5",
+        "opiniones": "~200 opiniones",
+        "coordenadas": "2.20 S, 81.02 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297539-d8395311-Reviews-La_Chocolatera-Salinas_Santa_Elena_Province.html"
+      },
+      {
+        "nombre": "La Lobería de Salinas",
+        "categoria": "Reserva faunística",
+        "descripcion": "Área costera protegida cercana a la Chocolatera, hogar de una colonia de lobos marinos sudamericanos. Senderos permiten observar de cerca a los lobos descansando sobre las rocas y aves marinas. Es parte de la Reserva Marino Costera Puntilla de Santa Elena",
+        "calificacion": "4.5/5",
+        "opiniones": "~80 opiniones",
+        "coordenadas": "2.19 S, 81.03 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297539-d10450062-Reviews-La_Loberia-Salinas_Santa_Elena_Province.html"
+      },
+      {
+        "nombre": "Museo de Ballenas",
+        "categoria": "Museo",
+        "descripcion": "Museo privado enfocado en la biodiversidad marina local, con énfasis en ballenas y delfines. Exhibe esqueletos completos de cetáceos (incluida una ballena jorobada de 12 m), muestras biológicas, paneles educativos y ofrece charlas de conservación",
+        "calificacion": "4.5/5",
+        "opiniones": "~60 opiniones",
+        "coordenadas": "2.18 S, 80.98 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297539-d8546071-Reviews-Museo_de_las_Ballenas-Salinas_Santa_Elena_Province.html"
+      },
+      {
+        "nombre": "Malecón de Salinas",
+        "categoria": "Paseo marítimo",
+        "descripcion": "Avenida costera junto a la playa principal, bordeada de palmeras, restaurantes, hoteles y locales nocturnos. Es el lugar ideal para pasear al atardecer, disfrutar de gastronomía marina y del ambiente vacacional con vista a la bahía de Salinas",
+        "calificacion": "4.5/5",
+        "opiniones": "~120 opiniones",
+        "coordenadas": "2.18 S, 80.98 W",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "ciudad": "Manta",
+    "descripcion": "Ciudad portuaria de Manabí, importante por su industria pesquera pero también por sus playas. Punto de partida para excursiones marinas (avistamiento de ballenas) y famosa por su gastronomía marinera, combina desarrollo urbano con atractivos costeros",
+    "atracciones": [
+      {
+        "nombre": "Playa El Murciélago",
+        "categoria": "Playa",
+        "descripcion": "Playa urbana principal de Manta, amplia y de arena clara, con oleaje moderado. Flanqueada por malecón con restaurantes y bares. Popular para bañistas, voleibol y deportes acuáticos; cuenta con salvavidas y comodidades turísticas",
+        "calificacion": "4.0/5",
+        "opiniones": "~180 opiniones",
+        "coordenadas": "0.95 S, 80.74 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297538-d6206456-Reviews-Playa_el_Murcielago-Manta_Manabi_Province.html"
+      },
+      {
+        "nombre": "Playa Santa Marianita",
+        "categoria": "Playa",
+        "descripcion": "Playa extensa a 15 km de Manta, de ambiente tranquilo y vientos constantes, conocida como destino ideal para kitesurf. Sus amplios espacios y olas suaves la hacen apta para deportes acuáticos y caminatas, con varios hostales y escuelas de kite en la zona",
+        "calificacion": "4.5/5",
+        "opiniones": "~80 opiniones",
+        "coordenadas": "1.01 S, 80.86 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297538-d3383695-Reviews-Playa_Santa_Marianita-Manta_Manabi_Province.html"
+      },
+      {
+        "nombre": "Refugio de Vida Silvestre Pacoche",
+        "categoria": "Reserva natural",
+        "descripcion": "Bosque húmedo tropical costero a 25 km de Manta que protege bosque de garúa, hábitat de monos aulladores, aves y flora nativa. Senderos guiados permiten internarse entre ceibos gigantes y observar fauna. También incluye playa protegida para tortugas marinas",
+        "calificacion": "4.5/5",
+        "opiniones": "~40 opiniones",
+        "coordenadas": "1.22 S, 80.97 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297538-d2634092-Reviews-Pacoche_Wildlife_Refuge-Manta_Manabi_Province.html"
+      },
+      {
+        "nombre": "Museo Cancebí",
+        "categoria": "Museo",
+        "descripcion": "Museo etnográfico y de artesanías ubicado en el centro de Manta. Exhibe la cultura y tradiciones manabitas, con salas dedicadas a la pesca, agricultura, tejido de sombreros de paja toquilla, cerámica precolombina regional y galería de arte contemporáneo",
+        "calificacion": "4.0/5",
+        "opiniones": "~50 opiniones",
+        "coordenadas": "0.95 S, 80.72 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297538-d4753301-Reviews-Cancebi_Museum-Manta_Manabi_Province.html"
+      },
+      {
+        "nombre": "Montecristi (ciudad cercana)",
+        "categoria": "Artesanías",
+        "descripcion": "Pueblo histórico a 30 min de Manta, cuna del sombrero de paja toquilla. En su centro se encuentran talleres artesanales y tiendas de sombreros finos. También destaca la gran iglesia de Monserrate y un museo a Eloy Alfaro (líder liberal nacido aquí)",
+        "calificacion": "4.5/5",
+        "opiniones": "~120 opiniones",
+        "coordenadas": "1.05 S, 80.66 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g297538-d7225765-Reviews-Montecristi-Manta_Manabi_Province.html"
+      },
+      {
+        "nombre": "Mercado de Tarqui (Mercado de Mariscos)",
+        "categoria": "Mercado",
+        "descripcion": "Mercado popular junto a la playa de Tarqui donde llegan los pescadores al amanecer con el producto del día. Se puede ver la actividad pesquera tradicional y disfrutar de platos típicos con pescado y mariscos frescos en los comedores aledaños",
+        "calificacion": "4.0/5",
+        "opiniones": "~40 opiniones",
+        "coordenadas": "0.97 S, 80.73 W",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "ciudad": "Puerto López",
+    "descripcion": "Pequeña ciudad pesquera en la costa de Manabí, famosa por ser base para explorar el Parque Nacional Machalilla. Desde aquí se visitan la isla de la Plata (conocida como “Galápagos pequeño”) y la playa Los Frailes, y de junio a septiembre es centro de avistamiento de ballenas jorobadas",
+    "atracciones": [
+      {
+        "nombre": "Isla de la Plata",
+        "categoria": "Isla/Reserva",
+        "descripcion": "Isla oceánica parte del Parque Machalilla, llamada “Galápagos en miniatura” por su fauna similar (piqueros de patas azules, fragatas, tortugas marinas). Se accede en tour en bote (1h) que incluye caminata por la isla y snorkel; en temporada se avistan ballenas en el trayecto:contentReference[oaicite:91]{index=91}",
+        "calificacion": "4.5/5",
+        "opiniones": "~400 opiniones",
+        "coordenadas": "1.28 S, 81.07 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g635730-d2634096-Reviews-Isla_de_la_Plata-Puerto_Lopez_Manabi_Province.html"
+      },
+      {
+        "nombre": "Playa Los Frailes",
+        "categoria": "Playa",
+        "descripcion": "Considerada una de las playas más hermosas de Ecuador, de arena blanca y aguas azul turquesa, rodeada de acantilados y bosque seco tropical protegido. Ubicada dentro del Parque Machalilla a 12 km de Puerto López, se accede en vehículo + caminata. No tiene edificaciones, conservando su estado natural",
+        "calificacion": "5.0/5",
+        "opiniones": "~500 opiniones",
+        "coordenadas": "1.55 S, 80.80 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g635730-d317396-Reviews-Los_Frailes_Beach-Puerto_Lopez_Manabi_Province.html"
+      },
+      {
+        "nombre": "Parque Nacional Machalilla",
+        "categoria": "Parque nacional",
+        "descripcion": "Área protegida costera-terrestre que abarca bosques secos, zonas arqueológicas y ecosistemas marinos. Incluye la isla de la Plata, playas vírgenes (Los Frailes), bosque húmedo de Agua Blanca. Destaca por su biodiversidad de aves, arrecifes de coral y como uno de los últimos refugios del guacamayo verde en Ecuador",
+        "calificacion": "N/A",
+        "opiniones": "N/A",
+        "coordenadas": "1.50 S, 80.80 W",
+        "enlace": ""
+      },
+      {
+        "nombre": "Comunidad Agua Blanca",
+        "categoria": "Sitio arqueológico",
+        "descripcion": "Comunidad ancestral dentro del Parque Machalilla. Ofrece un museo que exhibe piezas de la cultura Manteña (500-1500 d.C.), ruinas arqueológicas (basamentos, urnas funerarias) y una piscina natural de aguas sulfurosas donde los turistas pueden bañarse con lodo mineral",
+        "calificacion": "4.5/5",
+        "opiniones": "~180 opiniones",
+        "coordenadas": "1.56 S, 80.73 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g635730-d2707863-Reviews-Agua_Blanca-Puerto_Lopez_Manabi_Province.html"
+      },
+      {
+        "nombre": "Avistamiento de Ballenas",
+        "categoria": "Actividad",
+        "descripcion": "De junio a septiembre, tours en lancha desde Puerto López permiten observar de cerca ballenas jorobadas migratorias. Los cetáceos realizan saltos y golpes de aleta; los guías brindan información sobre su biología. Es una experiencia destacada de la temporada de costa ecuatoriana",
+        "calificacion": "5.0/5",
+        "opiniones": "(Temporada)",
+        "coordenadas": "1.29 S, 81.07 W",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "ciudad": "Tena",
+    "descripcion": "Capital de la provincia de Napo, en plena Amazonía ecuatoriana. Rodeada de ríos y selva, es conocida por sus paisajes exuberantes y actividades de aventura (rafting en ríos Jatunyacu y Misahuallí, kayak):contentReference[oaicite:92]{index=92}. Es la base perfecta para explorar la rica biodiversidad amazónica de la zona:contentReference[oaicite:93]{index=93}",
+    "atracciones": [
+      {
+        "nombre": "Parque Amazónico La Isla",
+        "categoria": "Parque ecológico",
+        "descripcion": "Parque natural en una isla en la confluencia de los ríos Tena y Pano, accesible por puente peatonal. Posee senderos interpretativos entre bosque secundario, un mirador, mini zoológico de fauna local y ofrece una primera introducción a la flora y fauna amazónicas",
+        "calificacion": "4.0/5",
+        "opiniones": "~80 opiniones",
+        "coordenadas": "0.99 S, 77.81 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g789218-d4452137-Reviews-Amazonico_La_Isla_Park-Tena_Napo_Province.html"
+      },
+      {
+        "nombre": "Amazoonico (Rescate de Fauna)",
+        "categoria": "Rescate de fauna",
+        "descripcion": "Centro de rescate de animales silvestres ubicado en la ribera del río Arajuno (afluente del Napo). Se accede en canoa desde Misahuallí o Ahuano. Rehabilita fauna amazónica víctima de tráfico (monos, guacamayos, ocelotes); visitas guiadas educan sobre conservación",
+        "calificacion": "4.5/5",
+        "opiniones": "~100 opiniones",
+        "coordenadas": "1.04 S, 77.63 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g789218-d3382745-Reviews-Amazoonico_Tarapoa_Ecuador-Tena_Napo_Province.html"
+      },
+      {
+        "nombre": "Cavernas de Jumandy",
+        "categoria": "Cavernas",
+        "descripcion": "Conjunto de cuevas de origen kárstico ubicadas cerca de Archidona (15 km de Tena). En el recorrido guiado se camina y nada por pasajes subterráneos con estalactitas, estalagmitas y colonias de murciélagos. Algunas cámaras tienen piscinas naturales donde los visitantes pueden sumergirse",
+        "calificacion": "4.0/5",
+        "opiniones": "~70 opiniones",
+        "coordenadas": "0.92 S, 77.80 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g789218-d14940557-Reviews-Jumandi_Caves-Tena_Napo_Province.html"
+      },
+      {
+        "nombre": "Laguna Azul",
+        "categoria": "Balneario natural",
+        "descripcion": "Conjunto de pozas naturales cristalinas alimentadas por cascadas en medio de la selva, ubicadas en la comunidad de Santa Clara (Pastaza, cerca de Tena). Es un balneario popular para nadar en aguas color turquesa, hacer clavados desde las rocas y disfrutar de un día de río en la Amazonía",
+        "calificacion": "4.5/5",
+        "opiniones": "~30 opiniones",
+        "coordenadas": "1.20 S, 77.90 W",
+        "enlace": ""
+      },
+      {
+        "nombre": "Río Jatunyacu",
+        "categoria": "Río/Aventura",
+        "descripcion": "Afluente del río Napo conocido por sus excelentes rápidos de clase III. Es el escenario principal para rafting en Tena: recorridos de ~25 km ofrecen emoción en rápidos con nombres como “Piedra Loca” y tramos escénicos entre selva virgen, con paradas en playas fluviales",
+        "calificacion": "5.0/5",
+        "opiniones": "61 opiniones:contentReference[oaicite:94]{index=94}",
+        "coordenadas": "1.07 S, 77.77 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g789218-d1777100-Reviews-Jatunyacu_River-Tena_Napo_Province.html"
+      }
+    ]
+  },
+  {
+    "ciudad": "Puyo",
+    "descripcion": "Capital de Pastaza, conocida como la “puerta de entrada a la Amazonía” ecuatoriana:contentReference[oaicite:95]{index=95}. Ciudad tranquila junto a los Andes y la selva, rodeada de ríos, cascadas y comunidades indígenas, es base para ecoturismo, parques naturales y aventuras en la jungla:contentReference[oaicite:96]{index=96}",
+    "atracciones": [
+      {
+        "nombre": "Parque Etnobotánico Omaere",
+        "categoria": "Parque temático",
+        "descripcion": "Parque dedicado a las plantas medicinales y cultura Shuar y Achuar. Ofrece senderos guiados por bosque secundario donde se muestran diversas especies vegetales y sus usos tradicionales. Incluye chozas con exposiciones etnobotánicas y venta de artesanías",
+        "calificacion": "4.5/5",
+        "opiniones": "~50 opiniones",
+        "coordenadas": "1.47 S, 77.99 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g789219-d2344546-Reviews-Omaere_Ethnobotanical_Park-Puyo_Pastaza_Province.html"
+      },
+      {
+        "nombre": "Fundación Los Monos (Paseo de los Monos)",
+        "categoria": "Rescate de fauna",
+        "descripcion": "Centro de rescate y rehabilitación de primates amazónicos. Alberga decenas de monos (choros, ardilla, capuchinos, etc.) que deambulan en semilibertad en un amplio terreno cercado. Los visitantes recorren senderos observando a los monos recuperándose y aprendiendo sobre su protección",
+        "calificacion": "4.5/5",
+        "opiniones": "~100 opiniones",
+        "coordenadas": "1.46 S, 78.00 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g789219-d2548238-Reviews-Fundacion_Los_Monos_Selva_y_Vida-Puyo_Pastaza_Province.html"
+      },
+      {
+        "nombre": "Reserva Hola Vida",
+        "categoria": "Reserva natural",
+        "descripcion": "Reserva comunitaria que protege bosque húmedo a ~20 km de Puyo. La atracción principal es la cascada Hola Vida, de ~21 m de altura, con una piscina natural donde bañarse. El tour incluye caminata interpretativa por selva primaria, avistando insectos, anfibios y plantas medicinales",
+        "calificacion": "5.0/5",
+        "opiniones": "~40 opiniones",
+        "coordenadas": "1.68 S, 77.90 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g789219-d2086156-Reviews-Hola_Vida_Natural_Reserve-Puyo_Pastaza_Province.html"
+      },
+      {
+        "nombre": "Mirador Indichuris",
+        "categoria": "Mirador",
+        "descripcion": "Mirador turístico en una colina selvática a las afueras de Puyo, manejado por una comunidad indígena. Ofrece vista panorámica del valle del río Pastaza y la jungla infinita. Cuenta con columpios “de vuelo” sobre el abismo (similar a Baños) y espacios para relajarse con vistas",
+        "calificacion": "5.0/5",
+        "opiniones": "~15 opiniones",
+        "coordenadas": "1.54 S, 77.87 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g789219-d15662159-Reviews-Mirador_Indichuris-Puyo_Pastaza_Province.html"
+      },
+      {
+        "nombre": "Centro Yana Cocha",
+        "categoria": "Rescate de fauna",
+        "descripcion": "Centro de rescate de vida silvestre amazónica cerca de Puyo. Alberga animales huérfanos o recuperados del tráfico: jaguares, tapires, tucanes, tortugas, monos, etc., en espacios amplios. Ofrece visitas educativas guiadas para conocer estas especies y apoyar su cuidado",
+        "calificacion": "4.5/5",
+        "opiniones": "~90 opiniones",
+        "coordenadas": "1.46 S, 78.02 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g789219-d7799676-Reviews-Yana_Cocha_Animal_Refuge-Puyo_Pastaza_Province.html"
+      }
+    ]
+  },
+  {
+    "ciudad": "Riobamba",
+    "descripcion": "Ciudad andina conocida como la “Sultana de los Andes”. Destaca por su cercanía al volcán Chimborazo – el pico más alto del país – y por su importancia histórica. Es punto de partida para ascender Chimborazo y para el famoso tren de la Nariz del Diablo, lo que la convierte en base de turismo de montaña y aventura",
+    "atracciones": [
+      {
+        "nombre": "Volcán Chimborazo",
+        "categoria": "Volcán",
+        "descripcion": "Volcán inactivo de 6.263 m, el punto más alejado del centro de la Tierra. Se accede en vehículo hasta el Refugio Carrel (~4.850 m) y desde allí se puede caminar al Refugio Whymper (~5.000 m). Las vistas son espectaculares; es hábitat de vicuñas en la reserva que lo rodea",
+        "calificacion": "5.0/5",
+        "opiniones": "~300 opiniones",
+        "coordenadas": "1.47 S, 78.99 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303849-d314664-Reviews-Mount_Chimborazo-Riobamba_Chimborazo_Province.html"
+      },
+      {
+        "nombre": "Reserva Faunística Chimborazo",
+        "categoria": "Reserva natural",
+        "descripcion": "Área protegida de 58.000 ha alrededor del Chimborazo, abarcando páramos altos entre 3.800–6.300 m. Protege poblaciones de vicuñas, llamas y alpacas reintroducidas, además de especies andinas como el zorro andino. Ofrece senderos escénicos con panoramas de volcanes",
+        "calificacion": "4.5/5",
+        "opiniones": "~70 opiniones",
+        "coordenadas": "1.67 S, 78.85 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303849-d10358625-Reviews-Reserva_Produccion_Faunistica_Chimborazo-Riobamba_Chimborazo_Province.html"
+      },
+      {
+        "nombre": "Laguna de Colta & Iglesia de Balbanera",
+        "categoria": "Lago/Historia",
+        "descripcion": "Laguna andina situada 30 km al suroeste de Riobamba, de aguas poco profundas rodeadas de totora. A sus orillas se encuentra la histórica iglesia de Balbanera (1534), la más antigua del Ecuador. El paisaje combina el espejo de agua con vista del volcán Chimborazo en días despejados",
+        "calificacion": "4.0/5",
+        "opiniones": "~30 opiniones",
+        "coordenadas": "1.90 S, 78.78 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303849-d6207472-Reviews-Colta_Lagoon-Riobamba_Chimborazo_Province.html"
+      },
+      {
+        "nombre": "Catedral de Riobamba",
+        "categoria": "Iglesia",
+        "descripcion": "También llamada Basílica Menor, es la iglesia principal de la ciudad, notable por su fachada tallada en piedra que sobrevivió al terremoto de 1797 (y fue trasladada desde la antigua Riobamba). Su exterior exhibe relieves mestizos barrocos; el interior es moderno por reconstrucciones posteriores",
+        "calificacion": "4.0/5",
+        "opiniones": "~50 opiniones",
+        "coordenadas": "1.67 S, 78.65 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g303849-d8610472-Reviews-Catedral_de_Riobamba-Riobamba_Chimborazo_Province.html"
+      },
+      {
+        "nombre": "Museo y Centro Cultural Riobamba",
+        "categoria": "Museo",
+        "descripcion": "Complejo museístico alojado en una casona patrimonial. Incluye el Museo de la Ciudad, con exposiciones sobre la historia local (desde culturas prehispánicas Puruhaes hasta la Independencia) y arte religioso; y salas de arte contemporáneo. Ofrece una visión amplia del legado cultural de Riobamba",
+        "calificacion": "4.5/5",
+        "opiniones": "~25 opiniones",
+        "coordenadas": "1.67 S, 78.65 W",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "ciudad": "Loja",
+    "descripcion": "Ciudad colonial del sur, conocida como la capital cultural y musical del Ecuador por su gran tradición artística:contentReference[oaicite:97]{index=97}. Destaca por su ambiente tranquilo, su patrimonio arquitectónico (Puerta de la Ciudad, iglesias) y por ser entrada al Parque Nacional Podocarpus y valle de Vilcabamba",
+    "atracciones": [
+      {
+        "nombre": "Puerta de la Ciudad",
+        "categoria": "Monumento",
+        "descripcion": "Icono de Loja: réplica de una antigua puerta fortificada, construida en 1998 inspirada en el escudo de la ciudad. Posee torres, puente levadizo y murallas que hoy albergan un museo de historia de Loja y un mirador. Marca el ingreso al centro histórico lojeño",
+        "calificacion": "4.5/5",
+        "opiniones": "~100 opiniones",
+        "coordenadas": "3.99 S, 79.20 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g644409-d8755877-Reviews-Puerta_de_la_Ciudad-Loja_Loja_Province.html"
+      },
+      {
+        "nombre": "Parque Jipiro",
+        "categoria": "Parque temático",
+        "descripcion": "Parque recreativo al norte de Loja con laguna y réplicas en miniatura de edificaciones del mundo (pagoda china, pirámide egipcia, torre Eiffel, etc.). Es un espacio familiar con áreas verdes, juegos infantiles y alquiler de botes; mezcla esparcimiento con educación cultural",
+        "calificacion": "4.5/5",
+        "opiniones": "~120 opiniones",
+        "coordenadas": "3.98 S, 79.21 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g644409-d7394933-Reviews-Parque_Jipiro-Loja_Loja_Province.html"
+      },
+      {
+        "nombre": "Catedral Basílica de Loja",
+        "categoria": "Iglesia",
+        "descripcion": "Iglesia matriz de Loja, con fachada neoclásica pintada de blanco y amarillo. Reconstruida varias veces desde el siglo XVI por terremotos, la actual data de 1838. En su interior sencillo destacan el altar mayor y la imagen de la Virgen de El Cisne durante sus visitas anuales",
+        "calificacion": "4.5/5",
+        "opiniones": "~60 opiniones",
+        "coordenadas": "4.00 S, 79.20 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g644409-d8755880-Reviews-Catedral_de_Loja-Loja_Loja_Province.html"
+      },
+      {
+        "nombre": "Parque Nacional Podocarpus (Ingreso Cajanuma)",
+        "categoria": "Parque nacional",
+        "descripcion": "Extensa área protegida de bosques nublados y páramos andinos compartida entre Loja y Zamora. Desde el sector Cajanuma (a 15 km de Loja, 2.800 msnm) parten senderos entre densa vegetación, con miradores naturales y observación de aves endémicas. El parque alberga osos de anteojos, orquídeas y los árboles de romerillo (podocarpus) que le dan nombre",
+        "calificacion": "5.0/5",
+        "opiniones": "~50 opiniones",
+        "coordenadas": "4.10 S, 79.20 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g644409-d2626336-Reviews-Podocarpus_National_Park-Loja_Loja_Province.html"
+      },
+      {
+        "nombre": "Museo de la Música",
+        "categoria": "Museo",
+        "descripcion": "Museo interactivo que celebra la herencia musical lojana. Exhibe instrumentos tradicionales, fotografías y biografías de compositores y artistas locales célebres. Cuenta con salas de audio donde se pueden escuchar pasillos y albazos típicos, ilustrando por qué Loja es llamada “cuna musical” del país",
+        "calificacion": "4.5/5",
+        "opiniones": "~20 opiniones",
+        "coordenadas": "4.00 S, 79.20 W",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "ciudad": "Vilcabamba",
+    "descripcion": "Pequeño pueblo en el valle subtropical de Malacatos (Loja), llamado el “Valle de la Longevidad” por la notable longevidad de algunos habitantes. Con clima cálido todo el año, entornos verdes y atmósfera relajada, atrae a extranjeros en busca de bienestar, retiros y vida tranquila",
+    "atracciones": [
+      {
+        "nombre": "Valle de Vilcabamba",
+        "categoria": "Valle",
+        "descripcion": "Valle fértil a 1.500 msnm, rodeado de montañas verdes y cultivado con frutales. Famoso por la supuesta alta longevidad de su población local, estudiada por científicos. El entorno natural invita a caminatas, cabalgatas y contacto con la naturaleza apacible del valle",
+        "calificacion": "N/A",
+        "opiniones": "N/A",
+        "coordenadas": "4.26 S, 79.22 W",
+        "enlace": ""
+      },
+      {
+        "nombre": "Cerro Mandango",
+        "categoria": "Montaña",
+        "descripcion": "Imponente cerro con forma de figura reclinada (llamado “el dios dormido”) que domina Vilcabamba. Ofrece un popular sendero de ascenso (2–3 h) hasta su cima a 2.000 m, desde donde hay vistas panorámicas del valle de Vilcabamba y cordillera de los Andes circundante",
+        "calificacion": "N/A",
+        "opiniones": "N/A",
+        "coordenadas": "4.24 S, 79.22 W",
+        "enlace": ""
+      },
+      {
+        "nombre": "Reserva Rumi Wilco",
+        "categoria": "Reserva privada",
+        "descripcion": "Reserva ecológica a orillas del río Vilcabamba gestionada por una familia. Protege bosque seco premontano con senderos autoguiados que muestran flora nativa y ofrecen chance de avistar aves. Cuenta con áreas de camping y cabañas ecológicas para visitantes",
+        "calificacion": "4.5/5",
+        "opiniones": "~20 opiniones",
+        "coordenadas": "4.26 S, 79.23 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g635730-d10420861-Reviews-Rumi_Wilco_Nature_Reserve-Vilcabamba_Loja_Province.html"
+      }
+    ]
+  },
+  {
+    "ciudad": "Zaruma",
+    "descripcion": "Ciudad histórica asentada en las montañas de El Oro, célebre por su arquitectura republicana de madera multicolor y su pasado minero aurífero. Declarada Patrimonio Cultural del Ecuador, sus callejuelas empinadas y balcones ornamentados la hacen un pintoresco destino cultural en la región sur",
+    "atracciones": [
+      {
+        "nombre": "Centro Histórico de Zaruma",
+        "categoria": "Arquitectura urbana",
+        "descripcion": "Conjunto urbano patrimonial de casas de madera con balcones trabajados, pintadas de vivos colores. Recorriendo sus calles estrechas se aprecia la atmósfera nostálgica de la bonanza minera de principios del siglo XX. La Plaza Central, el Palacio Municipal y museos mineros destacan en el recorrido",
+        "calificacion": "N/A",
+        "opiniones": "N/A",
+        "coordenadas": "3.70 S, 79.61 W",
+        "enlace": ""
+      },
+      {
+        "nombre": "Mina El Sexmo",
+        "categoria": "Atracción histórica",
+        "descripcion": "Galería minera a pocos minutos del centro, habilitada para turismo. Permite internarse en uno de los túneles originales de extracción de oro usados desde época colonial. Guiado por ex-mineros, el recorrido muestra vetas de cuarzo, herramientas antiguas y explica la historia de la fiebre del oro zarumeña",
+        "calificacion": "4.5/5",
+        "opiniones": "~30 opiniones",
+        "coordenadas": "3.70 S, 79.60 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g2345979-d2335032-Reviews-El_Sexmo_Mine-Zaruma_El_Oro_Province.html"
+      },
+      {
+        "nombre": "Santuario de la Virgen del Carmen",
+        "categoria": "Iglesia",
+        "descripcion": "Iglesia matriz de Zaruma, construida en 1912 en estilo neogótico con madera. De fachada beige y campanario único, se alza en una colina dominando la ciudad. Su interior, de una sola nave, resguarda la venerada imagen de la Virgen del Carmen, patrona de los mineros zarumeños",
+        "calificacion": "4.5/5",
+        "opiniones": "~10 opiniones",
+        "coordenadas": "3.70 S, 79.61 W",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "ciudad": "Papallacta",
+    "descripcion": "Pueblo andino a 3.300 msnm en los páramos al oriente de Quito, famoso por sus fuentes termales de origen volcánico. Rodeado de montañas y enclavado en la Reserva Cayambe-Coca, es un destino popular de salud y relajación en aguas termales con vistas naturales:contentReference[oaicite:98]{index=98}",
+    "atracciones": [
+      {
+        "nombre": "Termas de Papallacta",
+        "categoria": "Termas/Balneario",
+        "descripcion": "Complejo de piscinas termales al aire libre alimentadas por aguas geotermales cristalinas (51°C en la fuente, reguladas a ~36–40°C). Ofrece áreas de spa, hidroterapia y piscinas de diferentes temperaturas rodeadas de paisaje montañoso andino",
+        "calificacion": "4.5/5",
+        "opiniones": "~700 opiniones",
+        "coordenadas": "0.37 S, 78.14 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g677337-d315370-Reviews-Termas_de_Papallacta-Papallacta_Napo_Province.html"
+      },
+      {
+        "nombre": "Laguna Papallacta",
+        "categoria": "Lago",
+        "descripcion": "Lago de origen glaciar cercano al pueblo, rodeado de páramo. Sus aguas frías contrastan con las termales de la zona. Se llega en vehículo; es utilizado para pesca deportiva de truchas. Desde sus orillas se observan aves acuáticas andinas y ocasionalmente venados en las laderas",
+        "calificacion": "N/A",
+        "opiniones": "N/A",
+        "coordenadas": "0.37 S, 78.13 W",
+        "enlace": ""
+      },
+      {
+        "nombre": "Reserva Cayambe-Coca (senderos)",
+        "categoria": "Reserva natural",
+        "descripcion": "Área protegida que rodea Papallacta, con ecosistemas de páramo, bosques altos y lagunas. Desde la entrada junto a las termas parten senderos como “Sol de Agua” que permiten caminatas cortas entre pantanos de altura, observación de frailejones, posibles avistamientos de osos de anteojos y vistas hacia nevados (Cayambe, Antisana) si el clima lo permite",
+        "calificacion": "N/A",
+        "opiniones": "N/A",
+        "coordenadas": "0.33 S, 78.14 W",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "ciudad": "Alausí",
+    "descripcion": "Pequeña ciudad andina famosa por el ferrocarril de la Nariz del Diablo. Sus coloridas casas se asientan en la ladera de un valle. Es un pueblo patrimonial tranquilo cuya principal atracción es el vertiginoso recorrido en tren que desciende la montaña zigzagueando, considerado una hazaña de ingeniería ferroviaria",
+    "atracciones": [
+      {
+        "nombre": "Tren Nariz del Diablo",
+        "categoria": "Tren escénico",
+        "descripcion": "Ferrocarril turístico que recorre un tramo histórico de la línea Transandina, descendiendo por la “Nariz del Diablo”, formación rocosa casi vertical. El tren realiza zigzags para salvar el pronunciado desnivel. El viaje ofrece vistas espectaculares de cañones y dura ~2.5 h ida/vuelta desde Alausí:contentReference[oaicite:99]{index=99}",
+        "calificacion": "4.5/5",
+        "opiniones": "~300 opiniones",
+        "coordenadas": "2.20 S, 78.85 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g2651931-d318718-Reviews-Tren_Cruz_del_Diablo-Alausi_Chimborazo_Province.html"
+      },
+      {
+        "nombre": "Mirador San Pedro",
+        "categoria": "Mirador",
+        "descripcion": "Estatua gigante del apóstol San Pedro de 21 m de alto ubicada en lo alto de Alausí. Representa al santo patrono de la ciudad. Desde la base de la estatua se tiene una vista panorámica de 360° de la ciudad con sus techos de teja, el río Chanchán y las montañas circundantes",
+        "calificacion": "4.5/5",
+        "opiniones": "~20 opiniones",
+        "coordenadas": "2.19 S, 78.85 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g2651931-d12835211-Reviews-Mirador_de_San_Pedro-Alausi_Chimborazo_Province.html"
+      },
+      {
+        "nombre": "Iglesia Matriz de Alausí",
+        "categoria": "Iglesia",
+        "descripcion": "Templo principal de Alausí, dedicado a San Pedro. De fachada sencilla y blanqueada, con un campanario esbelto. En su interior austero destacan algunos vitrales y la imagen de San Pedro que sale en procesión en las fiestas locales. Ubicada frente al parque central, es parte del conjunto patrimonial de la ciudad",
+        "calificacion": "4.0/5",
+        "opiniones": "~10 opiniones",
+        "coordenadas": "2.20 S, 78.85 W",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "ciudad": "Playas (General Villamil)",
+    "descripcion": "Población costera de la provincia del Guayas, cercana a Guayaquil. Cuenta con 13 km de playa continua y clima cálido todo el año, por lo que junto a Salinas es de los balnearios más populares del país:contentReference[oaicite:100]{index=100}. Su ambiente es familiar y relajado, con abundante oferta de mariscos",
+    "atracciones": [
+      {
+        "nombre": "Playa General Villamil",
+        "categoria": "Playa",
+        "descripcion": "Amplia playa de arena gris y oleaje suave que se extiende kilómetros, ideal para nadar y deportes playeros. Bordea el malecón de Playas, donde se concentran restaurantes de mariscos y puestos de cocos. Por su poca profundidad y salvavidas, es muy concurrida por familias",
+        "calificacion": "4.5/5",
+        "opiniones": "~200 opiniones",
+        "coordenadas": "2.63 S, 80.38 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g1432132-d6907562-Reviews-General_Villamil_Beach-Playas_Guayas_Province.html"
+      },
+      {
+        "nombre": "Puerto El Morro (delfines)",
+        "categoria": "Navegación",
+        "descripcion": "Comunidad pesquera a 20 km de Playas, punto de partida de tours en lancha por el manglar del Golfo de Guayaquil. Se navega por esteros rodeados de manglares avistando aves (fragatas, garzas) y una población residente de delfines nariz de botella que suelen saltar cerca de las embarcaciones",
+        "calificacion": "4.5/5",
+        "opiniones": "~50 opiniones",
+        "coordenadas": "2.64 S, 80.20 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g1432132-d4410238-Reviews-Puerto_El_Morro-Playas_Guayas_Province.html"
+      },
+      {
+        "nombre": "Santuario de Santa Narcisa de Jesús",
+        "categoria": "Iglesia",
+        "descripcion": "Iglesia moderna erigida en honor a Santa Narcisa de Jesús (santa ecuatoriana nacida en la zona). Es un centro de peregrinación; destaca su arquitectura con forma de cruz de base octagonal y vitrales coloridos. Ubicado en el recinto Colonche (cerca de Playas), combina fe y turismo religioso local",
+        "calificacion": "4.5/5",
+        "opiniones": "~30 opiniones",
+        "coordenadas": "2.49 S, 80.26 W",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "ciudad": "Canoa",
+    "descripcion": "Apacible pueblo costero de Manabí que se ha vuelto popular entre mochileros. Antaño aldea pesquera, hoy destaca por su extensa playa dorada, su atmósfera bohemia y olas ideales para surf, atrayendo viajeros en busca de sol y relajación:contentReference[oaicite:101]{index=101}",
+    "atracciones": [
+      {
+        "nombre": "Playa de Canoa",
+        "categoria": "Playa",
+        "descripcion": "Playa de 17 km de largo flanqueada por acantilados al norte. Ofrece olas constantes aptas para surfistas principiantes e intermedios, así como amplios espacios para caminar, montar a caballo y admirar atardeceres. El pueblo cuenta con hostales, bares y escuela de surf que dinamizan la playa",
+        "calificacion": "4.5/5",
+        "opiniones": "~100 opiniones",
+        "coordenadas": "0.46 S, 80.45 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g1023820-d7741734-Reviews-Canoa_Beach-Canoa_Manabi_Province.html"
+      },
+      {
+        "nombre": "Acantilados de Canoa",
+        "categoria": "Naturaleza",
+        "descripcion": "Formaciones de acantilados arcillosos al final norte de la playa. Se puede hacer senderismo corto durante la marea baja para observar aves marinas y pequeñas cuevas (como la llamada “Cueva del Amor”). Desde lo alto de los acantilados hay miradores naturales con vista panorámica de la costa",
+        "calificacion": "N/A",
+        "opiniones": "N/A",
+        "coordenadas": "0.43 S, 80.46 W",
+        "enlace": ""
+      },
+      {
+        "nombre": "Calle de los Cocteles (zona central)",
+        "categoria": "Vida nocturna",
+        "descripcion": "Área central de Canoa donde se ubican chiringuitos y bares rústicos al aire libre que sirven cocteles tropicales. En las noches, especialmente fines de semana, se anima con música, turistas y locales compartiendo en un ambiente relajado de fiesta playera",
+        "calificacion": "N/A",
+        "opiniones": "N/A",
+        "coordenadas": "0.46 S, 80.45 W",
+        "enlace": ""
+      }
+    ]
+  },
+  {
+    "ciudad": "Puerto Misahuallí",
+    "descripcion": "Pequeña parroquia a orillas del río Napo (provincia de Napo), famosa por sus monos capuchinos que rondan libremente la plaza central. Es punto de partida para excursiones en bote por el río hacia comunidades kichwa y reservas naturales, ofreciendo a los visitantes una primera inmersión en la Amazonía ecuatoriana",
+    "atracciones": [
+      {
+        "nombre": "Plaza de los Monos",
+        "categoria": "Atracción urbana",
+        "descripcion": "Parque central de Misahuallí, conocido porque una tropa de monos capuchinos habita en sus árboles y baja a interactuar con turistas (a veces robándoles comida). Es el principal atractivo del pueblo, donde los visitantes pueden observar y fotografiar de cerca a estos curiosos primates en un entorno urbano",
+        "calificacion": "4.0/5",
+        "opiniones": "~60 opiniones",
+        "coordenadas": "1.04 S, 77.66 W",
+        "enlace": "https://www.tripadvisor.com/Attraction_Review-g670742-d9733514-Reviews-Misahualli_Monkey_Beach-Tena_Napo_Province.html"
+      },
+      {
+        "nombre": "Playas del Río Napo",
+        "categoria": "Playa fluvial",
+        "descripcion": "Extensa playa de arena y cantos rodados en la confluencia de los ríos Napo y Misahuallí, junto al pueblo. Punto de embarque de las lanchas turísticas; los visitantes pueden nadar en las aguas del río (con precaución), tomar el sol en la orilla y observar el paisaje amazónico. En los alrededores, suelen verse mariposas y alguna ave ribereña",
+        "calificacion": "4.0/5",
+        "opiniones": "~30 opiniones",
+        "coordenadas": "1.04 S, 77.67 W",
+        "enlace": ""
+      },
+      {
+        "nombre": "Comunidad Kichwa (experiencia cultural)",
+        "categoria": "Cultural",
+        "descripcion": "Varias comunidades kichwas cercanas ofrecen visitas donde muestran sus tradiciones: bailes, música con instrumentos típicos, demostración de cerbatanas y preparación de chicha de yuca. Los turistas aprenden sobre su modo de vida en la selva y pueden adquirir artesanías. Se accede en canoa desde Misahuallí, complementando la experiencia natural con la cultural",
+        "calificacion": "N/A",
+        "opiniones": "N/A",
+        "coordenadas": "1.06 S, 77.66 W",
+        "enlace": ""
+      }
+    ]
+  }
+]
